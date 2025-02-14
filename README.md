@@ -1,4 +1,4 @@
-## Hey Spectator 
+<h1><em>Hey Spectator</em><img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></h1>
 
 <!--
 **ISHAN9876/ISHAN9876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
