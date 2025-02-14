@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=1000&size=50&pause=1000&color=F72402&multiline=true&width=1080&height=200&lines=Full+stack+developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=1000&size=50&pause=1000&color=F72402&multiline=true&width=1080&height=200&lines=Cybersecurity)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Galada&weight=1000&size=50&pause=1000&color=C800C8&multiline=true&width=1080&height=100&lines=WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
 
 ![ISHAN KUMRA](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ISHAN9876&color=green)
 
-💻 **About Me**  
+
+<p><h1 align="left"><strong>💫 A B O U T &nbsp; M E</h1></strong></p>
 - 🚀 I’m currently working on [MATHS VLAB].  
-- 🌱 I’m learning [MERN].  
+- 🌱 Currently I’m learning  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=1000&size=18&pause=1000&color=C800C8&multiline=true&width=500&height=25&lines=MERN+STACK)](https://git.io/typing-svg)  
 - 🎯 Goals: [ETHICAL HACKER,WEB3 DEV].  
 - 🤝 I’m looking to collaborate on [CYBERSECURITY].  
 
@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
 
 ⭐ I love coding and exploring new technologies! 😃
+![Snake animation](https://github.com/ISHAN9876/ISHAN9876/blob/output/github-contribution-grid-snake.svg)
