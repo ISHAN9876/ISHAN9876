@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 <p><h1 align="left"><strong>💫 A B O U T &nbsp; M E</h1></strong></p>
 - 🚀 I’m currently working on [MATHS VLAB].  
-- 🌱 Currently I’m learning  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=1000&size=18&pause=1000&color=C800C8&multiline=true&width=500&height=25&lines=MERN+STACK)](https://git.io/typing-svg)  
+- 🌱 Currently I’m learning  [<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=1000&size=18&pause=1000&color=C800C8&multiline=true&width=500&height=25&lines=MERN+STACK" alt="Typing SVG" /></a>]
+
 - 🎯 Goals: [ETHICAL HACKER,WEB3 DEV].  
 - 🤝 I’m looking to collaborate on [CYBERSECURITY].  
 
