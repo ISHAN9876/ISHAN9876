@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=1000&size=50&pause=1000&color=F73D1F&multiline=true&width=1080&height=200&lines=Hi+i'm+Ishan;i+am+a+passionate+full+stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=1000&size=50&pause=1000&color=F72402&multiline=true&width=1080&height=200&lines=Full+stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=1000&size=50&pause=1000&color=F72402&multiline=true&width=1080&height=200&lines=Cybersecurity)](https://git.io/typing-svg)
 
 ![ISHAN KUMRA](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
 
