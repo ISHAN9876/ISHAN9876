@@ -20,17 +20,15 @@ Here are some ideas to get you started:
 
 
 
-# Hi there, I'm [Your Name] 👋
-
 💻 **About Me**  
-- 🚀 I’m currently working on [Your Project Name].  
-- 🌱 I’m learning [Technology/Framework].  
-- 🎯 Goals: [Your Future Plans].  
-- 🤝 I’m looking to collaborate on [Your Interests].  
+- 🚀 I’m currently working on [MATHS VLAB].  
+- 🌱 I’m learning [MERN].  
+- 🎯 Goals: [ETHICAL HACKER,WEB3 DEV].  
+- 🤝 I’m looking to collaborate on [CYBERSECURITY].  
 
 📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github)](https://github.com/your-username)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ishankumra)  
+[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github)](https://github.com/ISHAN9876)  
 
 🛠️ **Tech Stack:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
@@ -38,4 +36,4 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
 
-⭐ **Fun Fact:** I love coding and exploring new technologies! 😃
+⭐ I love coding and exploring new technologies! 😃
