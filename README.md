@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![ISHAN KUMRA](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=ISHAN9876&color=green)
 
 💻 **About Me**  
 - 🚀 I’m currently working on [MATHS VLAB].  
