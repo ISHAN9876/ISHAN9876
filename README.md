@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile;)](https://git.io/typing-svg)
+[![ISHAN](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile;)](https://git.io/typing-svg)
 
 ![ISHAN KUMRA](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
