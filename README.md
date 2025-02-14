@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Following+Are+Some+Insights+About+Me)](https://git.io/typing-svg)
+![ISHAN KUMRA](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
