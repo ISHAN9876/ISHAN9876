@@ -1,45 +1,4 @@
 <h1><em>Hey Visitor</em><img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></h1>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RGB Rotating Text</title>
-    <style>
-        @keyframes rgbCycle {
-            0% { color: red; }
-            33% { color: green; }
-            66% { color: blue; }
-            100% { color: red; }
-        }
-
-  @-webkit-keyframes rgbCycle { /* Ensuring compatibility */
-            0% { color: red; }
-            33% { color: green; }
-            66% { color: blue; }
-            100% { color: red; }
-        }
-
-  .rgb-text {
-            font-size: 2em;
-            font-weight: bold;
-            display: inline-block;
-            animation: rgbCycle 2s infinite linear;
-            -webkit-animation: rgbCycle 2s infinite linear;
-        }
-    </style>
-</head>
-<body>
-
-  <h1><em class="rgb-text">Hey Visitor</em> 
-    <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width="35"></h1>
-
-</body>
-</html>
-
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Galada&weight=1000&size=50&pause=1000&color=C800C8&multiline=true&width=1080&height=100&lines=WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
 
