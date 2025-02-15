@@ -1,8 +1,10 @@
 <h1><em>Hey Visitor</em><img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Galada&weight=1000&size=50&pause=1000&color=C800C8&multiline=true&width=1080&height=100&lines=WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=ISHAN9876&color=green&style=for-the-badge)
 
 ![ISHAN KUMRA](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
+
 
 <p><h1 align="left"><strong>💫 A B O U T &nbsp; M E</h1></strong></p>                   
   ⭐ <b><i>I'm a polymath!</i></b> 😃
@@ -50,6 +52,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ISHAN9876&theme=radical)](https://git.io/streak-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ISHAN9876&color=green&style=for-the-badge)
 
 
