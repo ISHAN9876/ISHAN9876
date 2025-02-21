@@ -50,8 +50,5 @@
   </a> 
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ISHAN9876&theme=radical)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ISHAN9876)](https://git.io/streak-stats)
-
 
 
