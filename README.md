@@ -38,7 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
 
 
-![1$HAN's STATS](https://github-readme-stats.vercel.app/api?username=ISHAN9876&show_icons=true&theme=dracula&count_private=true&hide_border=true)	
+![1$HAN's STATS](https://github-readme-stats.vercel.app/api?username=ISHAN9876&show_icons=true&theme=dracula&count_private=true&hide_border=true&cache_seconds=86400)
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan9876&layout=compact&theme=synthwave" alt="Top Languages"/>
