@@ -7,7 +7,7 @@
 
 
 <p><h1 align="left"><strong>💫 A B O U T &nbsp; M E</h1></strong></p>                   
-  ⭐ <b><i>I'm a polymath!</i></b> 😃
+  ⭐ <b><i>I'm a polymath!</i></b>
 
 
 - 🚀 I’m currently working on  
